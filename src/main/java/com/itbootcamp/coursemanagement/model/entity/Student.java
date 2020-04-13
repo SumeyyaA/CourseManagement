@@ -25,6 +25,8 @@ public class Student {
         this.password = password;
         this.courses = courses;
         this.course = course;
+
+        
     }
 
     public String getName() {
